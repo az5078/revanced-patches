@@ -1,3 +1,10 @@
+## [5.30.1](https://github.com/az5078/revanced-patches/compare/v5.30.0...v5.30.1) (2025-06-27)
+
+
+### Bug Fixes
+
+* update workflow to trigger on dev and tags ([742f973](https://github.com/az5078/revanced-patches/commit/742f973dd779846bad603e03252ca3c2c2fc206f))
+
 # [5.29.0](https://github.com/ReVanced/revanced-patches/compare/v5.28.0...v5.29.0) (2025-06-26)
 
 
