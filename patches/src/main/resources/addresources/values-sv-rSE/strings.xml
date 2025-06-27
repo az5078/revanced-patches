@@ -285,10 +285,13 @@ Du kommer inte att bli meddelad om oväntade händelser."</string>
   <string name="revanced_hide_description_components_screen_title">Videobeskrivning</string>
   <string name="revanced_hide_description_components_screen_summary">Dölj eller visa videobeskrivningskomponenter</string>
   <string name="revanced_hide_filter_bar_screen_title">Filterfält</string>
-  <string name="revanced_hide_filter_bar_screen_summary">Visa eller dölj filterfältet i flödet, sökresultaten och relaterade videor</string>
-  <string name="revanced_hide_filter_bar_feed_in_feed_title">Dölj i flöde</string>
-  <string name="revanced_hide_filter_bar_feed_in_feed_summary_on">Dold i flödet</string>
-  <string name="revanced_hide_filter_bar_feed_in_feed_summary_off">Visas i flöde</string>
+  <string name="revanced_hide_filter_bar_screen_summary">Dölj eller visa filterfältet i flödena, historiken, sökresultaten och relaterade videor</string>
+  <string name="revanced_hide_filter_bar_feed_in_feed_title">Dölj i flöden</string>
+  <string name="revanced_hide_filter_bar_feed_in_feed_summary_on">Dold i flöden</string>
+  <string name="revanced_hide_filter_bar_feed_in_feed_summary_off">Visas i flöden</string>
+  <string name="revanced_hide_filter_bar_feed_in_history_title">Dölj i historik</string>
+  <string name="revanced_hide_filter_bar_feed_in_history_summary_on">Dold i historik</string>
+  <string name="revanced_hide_filter_bar_feed_in_history_summary_off">Visas i historik</string>
   <string name="revanced_hide_filter_bar_feed_in_search_title">Dölj i sökresultat</string>
   <string name="revanced_hide_filter_bar_feed_in_search_summary_on">Dold i sökresultat</string>
   <string name="revanced_hide_filter_bar_feed_in_search_summary_off">Visas i sökresultat</string>
@@ -987,23 +990,23 @@ Den här funktionen fungerar bäst med en videokvalitet på 720p eller lägre oc
   <string name="revanced_sb_general_min_duration_sum">Segment kortare än detta värde (i sekunder) kommer inte att visas eller hoppas över</string>
   <string name="revanced_sb_general_min_duration_invalid">Ogiltig tidslängd</string>
   <string name="revanced_sb_general_uuid">Ditt privata användar-id</string>
-  <string name="revanced_sb_general_uuid_sum">Detta bör hållas privat. Detta är som ett lösenord och bör inte delas med någon. Om någon har det här, kan de utge sig för att vara dig</string>
+  <string name="revanced_sb_general_uuid_sum">Detta bör hållas privat. Detta är som ett lösenord och bör inte delas med någon. Om någon har detta kan de utge sig för att vara du</string>
   <string name="revanced_sb_general_uuid_invalid">Privat användar-id måste vara minst 30 tecken långt</string>
-  <string name="revanced_sb_general_api_url">Ändra API URL</string>
+  <string name="revanced_sb_general_api_url">Ändra API-webbadress</string>
   <string name="revanced_sb_general_api_url_sum">Adressen SponsorBlock använder för att ringa samtal till servern</string>
-  <string name="revanced_sb_api_url_reset">API URL återställning</string>
-  <string name="revanced_sb_api_url_invalid">API-URL är ogiltig</string>
-  <string name="revanced_sb_api_url_changed">API URL ändrad</string>
+  <string name="revanced_sb_api_url_reset">API-webbadress återställdes</string>
+  <string name="revanced_sb_api_url_invalid">API-webbadress är ogiltig</string>
+  <string name="revanced_sb_api_url_changed">API-webbadress ändrades</string>
   <string name="revanced_sb_settings_ie">Importera/exportera inställningar</string>
   <string name="revanced_sb_settings_copy">Kopiera</string>
   <string name="revanced_sb_settings_ie_sum">Din SponsorBlock JSON-konfiguration som kan importeras/exporteras till ReVanced och andra SponsorBlock plattformar</string>
-  <string name="revanced_sb_settings_ie_sum_warning">Din SponsorBlock JSON-konfiguration som kan importeras/exporteras till ReVanced och andra SponsorBlock plattformar. Detta inkluderar ditt privata användar-id. Se till att dela detta klokt</string>
+  <string name="revanced_sb_settings_ie_sum_warning">Din JSON-konfiguration för SponsorBlock som kan importeras/exporteras till ReVanced och andra SponsorBlock-plattformar. Detta inkluderar ditt privata användar-id. Se till att dela detta klokt</string>
   <string name="revanced_sb_settings_import_successful">Inställningar har importerats</string>
   <string name="revanced_sb_settings_import_failed">Det gick inte att importera: %s</string>
   <string name="revanced_sb_settings_export_failed">Det gick inte att exportera: %s</string>
-  <string name="revanced_sb_settings_revanced_export_user_id_warning">"Dina inställningar innehåller ett privat användar-ID för SponsorBlock.
+  <string name="revanced_sb_settings_revanced_export_user_id_warning">"Dina inställningar innehåller ett privat användar-id för SponsorBlock.
 
-Ditt användar-ID är som ett lösenord och det bör aldrig delas."</string>
+Ditt användar-id är som ett lösenord och det bör aldrig delas."</string>
   <string name="revanced_sb_settings_revanced_export_user_id_warning_dismiss">Visa inte igen</string>
   <string name="revanced_sb_diff_segments">Ändra segmentbeteende</string>
   <string name="revanced_sb_segments_sponsor">Sponsor</string>

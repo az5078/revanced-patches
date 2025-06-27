@@ -267,10 +267,6 @@ Second \"item\" text"</string>
   <string name="revanced_hide_description_components_screen_title">影片說明</string>
   <string name="revanced_hide_description_components_screen_summary">隱藏或顯示影片說明元件</string>
   <string name="revanced_hide_filter_bar_screen_title">篩選列</string>
-  <string name="revanced_hide_filter_bar_screen_summary">隱藏或顯示動態內容、搜尋結果和相關影片中的篩選列</string>
-  <string name="revanced_hide_filter_bar_feed_in_feed_title">已在推薦內容中隱藏</string>
-  <string name="revanced_hide_filter_bar_feed_in_feed_summary_on">已在推薦內容中隱藏</string>
-  <string name="revanced_hide_filter_bar_feed_in_feed_summary_off">已在推薦內容中顯示</string>
   <string name="revanced_hide_filter_bar_feed_in_search_title">在搜尋結果中隱藏</string>
   <string name="revanced_hide_filter_bar_feed_in_search_summary_on">已在搜尋結果中隱藏</string>
   <string name="revanced_hide_filter_bar_feed_in_search_summary_off">已在搜尋結果中顯示</string>

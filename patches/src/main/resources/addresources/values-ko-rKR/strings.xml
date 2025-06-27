@@ -289,10 +289,13 @@ MicroG 앱 배터리 최적화를 비활성화(제한 없음)하더라도, 배�
   <string name="revanced_hide_description_components_screen_title">동영상 설명</string>
   <string name="revanced_hide_description_components_screen_summary">동영상 설명에서 구성요소를 숨기거나 표시할 수 있습니다</string>
   <string name="revanced_hide_filter_bar_screen_title">카테고리 바</string>
-  <string name="revanced_hide_filter_bar_screen_summary">피드, 검색 결과, 관련 동영상에서 카테고리 바를 숨기거나 표시할 수 있습니다</string>
+  <string name="revanced_hide_filter_bar_screen_summary">피드, 기록, 검색 결과 그리고 관련 동영상에서 카테고리 바를 숨기거나 표시할 수 있습니다</string>
   <string name="revanced_hide_filter_bar_feed_in_feed_title">피드에서 카테고리 바 숨기기</string>
   <string name="revanced_hide_filter_bar_feed_in_feed_summary_on">피드에서 카테고리 바가 숨겨집니다</string>
   <string name="revanced_hide_filter_bar_feed_in_feed_summary_off">피드에서 카테고리 바가 표시됩니다</string>
+  <string name="revanced_hide_filter_bar_feed_in_history_title">기록에서 카테고리 바 숨기기</string>
+  <string name="revanced_hide_filter_bar_feed_in_history_summary_on">기록에서 카테고리 바가 숨겨집니다</string>
+  <string name="revanced_hide_filter_bar_feed_in_history_summary_off">기록에서 카테고리 바가 표시됩니다</string>
   <string name="revanced_hide_filter_bar_feed_in_search_title">검색 결과에서 카테고리 바 숨기기</string>
   <string name="revanced_hide_filter_bar_feed_in_search_summary_on">검색 결과에서 카테고리 바가 숨겨집니다</string>
   <string name="revanced_hide_filter_bar_feed_in_search_summary_off">검색 결과에서 카테고리 바가 표시됩니다</string>
@@ -761,9 +764,9 @@ MicroG 앱 배터리 최적화를 비활성화(제한 없음)하더라도, 배�
   <string name="revanced_hide_shorts_preview_comment_title">댓글 미리보기 숨기기</string>
   <string name="revanced_hide_shorts_preview_comment_summary_on">댓글 미리보기가 숨겨집니다</string>
   <string name="revanced_hide_shorts_preview_comment_summary_off">댓글 미리보기가 표시됩니다</string>
-  <string name="revanced_hide_shorts_save_sound_button_title">(재생목록에) 음악 저장 버튼 숨기기</string>
-  <string name="revanced_hide_shorts_save_sound_button_summary_on">(재생목록에) 음악 저장 버튼이 숨겨집니다</string>
-  <string name="revanced_hide_shorts_save_sound_button_summary_off">(재생목록에) 음악 저장 버튼이 표시됩니다</string>
+  <string name="revanced_hide_shorts_save_sound_button_title">음악 저장 버튼 숨기기</string>
+  <string name="revanced_hide_shorts_save_sound_button_summary_on">음악 저장 버튼이 숨겨집니다</string>
+  <string name="revanced_hide_shorts_save_sound_button_summary_off">음악 저장 버튼이 표시됩니다</string>
   <string name="revanced_hide_shorts_use_sound_button_title">\'이 사운드 사용\' 버튼 숨기기</string>
   <string name="revanced_hide_shorts_use_sound_button_summary_on">\'이 사운드 사용\' 버튼이 숨겨집니다</string>
   <string name="revanced_hide_shorts_use_sound_button_summary_off">\'이 사운드 사용\' 버튼이 표시됩니다</string>
